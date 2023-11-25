@@ -1,2 +1,3 @@
 name: Huang FeiFei
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
